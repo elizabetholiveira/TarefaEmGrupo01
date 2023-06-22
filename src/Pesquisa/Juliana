@@ -1,0 +1,75 @@
+Pesquisa sobre teste e segurança
+
+
+Quais tipos de segurança para aplicação existem?
+
+Existem vários tipos de segurança para aplicação. Alguns dos mais empregados durante o desenvolvimento são:
+⦁Autenticação por usuário e senha
+⦁Autenticação por token
+⦁Autenticação por JWT (JSON Web Token)
+⦁Autenticação por dois fatores
+
+Além disso, existem outras medidas de segurança que podem ser tomadas para proteger sua aplicação web contra os ataques mais comuns. Algumas delas são:
+
+⦁Utilização de programas antivírus e antispyware
+⦁Utilização de firewalls ou anti-virus, que bloqueiam o acesso não autorizado a uma rede
+⦁Utilização de modelos ou prevenção de intrusão no IP, identificando ameaças que se possam espalhar rapidamente, tais como ataques de dia zero ou zero hora
+
+Qual o tipo de segurança mais utilizada em projetos Java?
+
+Existem vários tipos de segurança que podem ser utilizados em projetos Java, como por exemplo: criptografia assimétrica ,  padrões de projeto  e outros. A escolha do tipo de segurança mais adequado para o seu projeto depende das necessidades específicas do mesmo.
+O que é criptografia?
+
+Criptografia é a prática de codificar e decodificar dados. Quando os dados são criptografados, é aplicado um algoritmo para modificá-los de modo que eles não tenham mais o formato original e, portanto, não possam ser lidos. Os dados só podem ser decodificados ao formato original com o uso de uma chave de decriptografia específica.
+A criptografia é usada atualmente como uma maneira de segurança de dados na internet, para proteger informações pessoais, de pagamento, empresariais e o que mais estiver sendo compartilhado entre um navegador e um servido
+
+
+O que é autenticação?
+
+Autenticação é o processo de verificação da identidade de uma pessoa ao acessar um ativo digital. É a prática de verificar se o usuário é quem ele afirma ser. Quando um usuário solicita acesso a um recurso, sua identidade é verificada solicitando dados como uma senha em relação às credenciais que já existem no banco de dados.
+A autenticação é um dos principais mecanismos de segurança em sistemas computacionais e é usada para garantir que apenas usuários autorizados tenham acesso a recursos protegidos.
+
+
+O que é autorização?
+
+Autorização, em segurança da informação, é o mecanismo responsável por garantir que apenas usuários autorizados consumam os recursos protegidos de um sistema computacional. Os recursos incluem arquivos, programas de computador, dispositivos de hardware e funcionalidades disponibilizadas por aplicações instaladas em um sistema.
+A autorização é a concessão de uso para determinados tipos de serviço, dada a um usuário previamente autenticado, com base na sua identidade, nos serviços que requisita e no estado atual do sistema. A autorização pode ser baseada em restrições, que são definidas por um horário de permissão de acesso ou localização física do usuário.
+
+
+
+Qual a diferença entre autenticação e autorização?
+
+A autenticação é o processo de verificação das credenciais que um usuário fornece com aquelas armazenadas em um sistema para provar que o usuário é quem diz ser. Se as credenciais corresponderem, você concederá acesso. Se não, você nega .
+Já a autorização é o processo que ocorre após ser validada a autenticação. Diz respeito aos privilégios que são concedidos a determinado usuário ao utilizar uma aplicação. Serve para verificar se determinado usuário terá a permissão para utilizar, executar recursos ou manipular determinadas ações .
+Em resumo, enquanto a autenticação é como a chave que destranca uma porta para o usuário, a autorização exige o estabelecimento de camadas de segurança cibernética para liberar ou restringir determinadas áreas do outro lado da porta .
+
+
+Mostre um exemplo de segurança no código.
+
+Um exemplo de segurança no código Java é o uso do Java Authentication and Authorization Service (JAAS). O JAAS é uma API que permite às aplicações escritas na plataforma J2EE usar serviços de controle de autenticação e autorização sem necessidade de estarem fortemente dependentes. A autenticação e a autorização Java Service (JAAS) foi introduzida como um pacote opcional para o JavaTM 2 SDK, Standard Edition (JDK), v 1.3. JAAS foi agora integrado ao JDK, v 1.4. JAAS pode ser usado para duas finalidades: Para autenticação de usuários de forma segura e determinar quem está atualmente em execução de código Java, independentemente do código que está sendo executado como um aplicativo, applet ou servlet. Para a autorização dos usuários, garantindo que eles tenham os direitos de controle de acesso (permissões) necessários para fazer as ações
+
+
+Qual a importância dos testes unitários?
+
+Os testes unitários são importantes para garantir a qualidade do código e acelerar o processo de desenvolvimento. Alguns benefícios dos testes unitários são: melhoria da qualidade do código, identificando problemas com o código o mais cedo possível, antes que eles causem problemas maiores no futuro; maior confiança na modificação do código, pois os testes unitários aumentam a validação de todas as funções do programa final, diminuindo a probabilidade de erros futuros; aceleração do processo de desenvolvimento, pois os testes unitários permitem a simplificação dos códigos utilizados, fazendo com que elementos desnecessários fiquem de fora e não resultem no mau funcionamento de todo o sistema; redução dos custos e melhoria da colaboração 
+
+
+
+O que é o framework JUnit?
+
+
+O JUnit é um framework open-source criado por Erich Gamma e Kent Beck, que fornece suporte à criação de testes automatizados na linguagem de programação Java. Esse framework facilita a criação e manutenção do código para a automação de testes com apresentação dos resultados. Com ele, pode ser verificado se cada método de uma classe funciona da forma esperada, exibindo possíveis erros ou 
+falhas
+
+
+O que são testes automatizados?
+
+Testes automatizados são programas que executam testes em softwares que estão em construção de uma forma padronizada, sem ser necessário a intervenção humana. Tais testes possuem funcionalidades capazes de testar de forma automática todos os aspectos de uma plataforma, com o intuito de assegurar um desempenho adequado. Eles se fundamentam no uso de ferramentas para controlar a execução de testes de software e através da aplicação de estratégias, o objetivo é basicamente escrever um software que testará seu programa por você.
+
+
+O que é Mockito?
+
+Mockito é um framework de teste e espionagem (Test and Spy) cujo principal objetivo é simular a instanciação de classes e o comportamento de métodos. Ao criar um mock de uma dependência com o Mockito, você faz com que a classe que está sendo testada simule o método testado e suas dependências . Isso é chamado de mock, que na tradução livre significa zombar .
+
+
+

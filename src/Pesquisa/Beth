@@ -2,11 +2,13 @@
 
 (Nutanix: O que é segurança de aplicações?
 DevMedia: Segurança em Aplicações Java - Java Magazine 82
-TreinaWeb: O que é String Security?
+TreinaWeb: O que é Spring Security?
 GeekHunter: Spring Framework: o que é, seus módulos e exemplos!
 Significados: Criptografia: o que é, o que faz e tipos
 TecMundo: O que é autenticação?
-TreinaWeb: Autenticação x Autorização)
+TreinaWeb: Autenticação x Autorização
+ZapTest: O que é teste unitário? Mergulhe fundo no Processo, Benefícios, Desafios, Ferramentas & Mais!
+Facom/UFU: Introdução ao JUnit)
 
 //ToDo # Quais tipos de segurança para aplicação existem?
 
@@ -43,14 +45,29 @@ executar recursos ou manipular determinadas ações.
 
 //ToDo # Mostre um exemplo de segurança no código.
 
+
+
 //ToDo # Qual a importância dos testes unitários?
+
+    Os testes unitários são importantes para identificarem problemas em pedaçoes específicos do código antes de sua fi-
+nalização.
 
 //ToDo # Mostre um exemplo de teste unitário.
 
+
+
 //ToDo # O que é o framework JUnit?
+
+
 
 //ToDo # O que são testes automatizados?
 
+
+
 //ToDo # O que é Mockito?
 
+
+
 //ToDo # Mostre um exemplo de testes unitários utilizando o Mockito.
+
+

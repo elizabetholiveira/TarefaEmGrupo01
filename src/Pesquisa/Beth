@@ -8,7 +8,9 @@ Significados: Criptografia: o que é, o que faz e tipos
 TecMundo: O que é autenticação?
 TreinaWeb: Autenticação x Autorização
 ZapTest: O que é teste unitário? Mergulhe fundo no Processo, Benefícios, Desafios, Ferramentas & Mais!
-Facom/UFU: Introdução ao JUnit)
+Facom/UFU: Introdução ao JUnit
+Kenzie: Testes Automatizados: O que são e como utilizá-los
+Alura: Mocks em Java: conhecendo o Mockito)
 
 //ToDo # Quais tipos de segurança para aplicação existem?
 
@@ -58,15 +60,17 @@ nalização.
 
 //ToDo # O que é o framework JUnit?
 
-
+    JUnit é um framework que facilita o desenvolvimento e execução de testes unitários em código Java.
 
 //ToDo # O que são testes automatizados?
 
-
+    Testes automatizados são programas que executam testes em softwares que estão em construção de forma padronizada,
+sem ser necessária a intervenção humana.
 
 //ToDo # O que é Mockito?
 
-
+    Mockito é uma biblioteca para fazer Mocks em Java. Mock é um mecanismo para testar a lógica de uma classe de maneira
+isolada mesmo que ela execute algum serviço externo como acessar banco de dados.
 
 //ToDo # Mostre um exemplo de testes unitários utilizando o Mockito.
 

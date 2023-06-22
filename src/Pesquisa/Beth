@@ -1,16 +1,45 @@
 *Pesquisa sobre teste e segurança*
 
+(Nutanix: O que é segurança de aplicações?
+DevMedia: Segurança em Aplicações Java - Java Magazine 82
+TreinaWeb: O que é String Security?
+GeekHunter: Spring Framework: o que é, seus módulos e exemplos!
+Significados: Criptografia: o que é, o que faz e tipos
+TecMundo: O que é autenticação?
+TreinaWeb: Autenticação x Autorização)
+
 //ToDo # Quais tipos de segurança para aplicação existem?
+
+- Filtros da aplicação;
+- Firewalls;
+- Sistemas antivírus;
+- Criptografia;
+- Segurança Wireless;
+- Educação dos Usuários e Patches;
+- Políticas de Segurança.
 
 //ToDo # Qual o tipo de segurança mais utilizada em projetos Java?
 
+- Spring Framework.
+
 //ToDo # O que é criptografia?
+
+    Criptografia é um mecanismo de segurança e privacidade que torna determinada comunicação inintelinguível para quem
+não tem acesso a tradução da mensagem. Auxilia na proteção de todos os conteúdos transmitidos entre duas ou mais fontes,
+evitando a intercepção por parte de cibercriminosos, hackers e espiões.
 
 //ToDo # O que é autenticação?
 
+    Autenticação é o ato de confirmar que algo ou alguém é autêntico, verdadeiro, confiável.
+
 //ToDo # O que é autorização?
 
+    Autorização são os pivilégios concedidos a determinado usuário ao utilizar uma aplicação. A permissão para utilizar,
+executar recursos ou manipular determinadas ações.
+
 //ToDo # Qual a diferença entre autenticação e autorização?
+
+    Autenticação é checar quem é o usuário, enquanto autorização é o que aquele usuário pode fazer.
 
 //ToDo # Mostre um exemplo de segurança no código.
 

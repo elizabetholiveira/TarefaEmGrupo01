@@ -1,0 +1,67 @@
+1) Tipos de Segurança para aplicação:
+*Segurança de Rede;
+*Segurança de Informação;
+*Segurança de Software;
+*Segurança de Autenticação;
+*Segurança de Autorização;
+*Segurança Fisica;
+*Segurança de transações;
+*Segurança de Gerenciamento de Configurações;
+
+2) Qual o tipo de segurança mais utilizada em projetos Java?
+*Segurança da Informação (SI) segundo definida pela ISO/IEC 27002, é a proteção da informação de uma grande variedade de ameaças com o objetivo de garantir 
+a continuidade do negócio e minimizar os seus riscos, ao mesmo tempo em que maximiza o retorno do investimento e as oportunidades de negócio;
+
+3) O que é criptografia?
+*Criptografia é uma forma de converter as informaçoes e dados legiveis em um formato ilegivel, com isso deixando que o conteudo (informações) so podem 
+ser acessados com a autorização. Existem dois tipos de Criptografia a simetrica (que usa uma mesma chave para criptografar e descriptografar) e a 
+assimetrica (são ultilizadas duas chaves uma publica e outra privada a publica serve para cliptografar e a privada para descriptografar);
+
+4) O que é autenticação?
+*Autenticação é um conceito que ta ligado a segurança das informações e ao controle de acesso ao sistema,
+mas a autenticação tem mais a ver com a validação da identidade do usuario (garantir que a pessoa que esta acessando seja realmente a dona da conta)
+existem varias formas de fazer essa autenticação (biometria, token, reconhecimento facil);
+
+5) O que é autorização?
+*Autorização ja está ligada a conceder e negar acesso aos recursos especificos pra aquela pessoa seria um passo após a autenticação, para que funcione 
+de forma eficaz é importante que os dois funcione juntos. As autorizações são definidas com referencia as regras e politica estabelecidos pelos administradores
+do sistema.
+
+6) Qual a diferença entre autenticação e autorização?
+*A diferença entre autenticação e autorização é que:
+- Autenticação é um processo que verifica a identidade de um usuario;
+- Autorização é um processo de conceder ou negar acesso a recursos especificos com base nas permissões atribuidas ao usuario autenticado.
+
+7) Mostre um exemplo de segurança no código.
+
+8) Qual a importância dos testes unitários?
+*A importancia de realizar os testes unitarios é para garantir que o software funcione da melhor forma possivel,
+e esses teste servem para detectar erros, manutençao e refatoração, documentação viva (facilitando a compreenção do usuario),
+permite que varias pessoas trabalhem em conjunto com uma parte sendo testada e observando se as outras funcionalidades continuam sendo executadas.
+
+9) Mostre um exemplo de teste unitário.
+
+10) O que é o framework JUnit?
+*Franework jUnit é uma ferramenta do java ultilizada para testes unitarios, ele tem uma API(conjunto de classes) para construir testes e aplicações graficas
+em um modo console para executar os testes criados.
+-Verifica se cada unidade do codigo funciona da forma esperada;
+-Facilita a criação, execução automatica de teste e a apresentação dos resultados;
+-É orientada a objeto;
+
+11) O que são testes automatizados?
+*"Testes automatizados são uma importante ferramenta para quem trabalha com o desenvolvimento de softwares. Neles, o sistema é otimizado com precisão e 
+agilidade: é nessa hora que você encontrará bugs, falhas de segurança e qualquer outro problema que prejudique o uso da aplicação"
+
+12) O que é Mockito?
+*" Mock é uma classe que simula os comportamentos de outra classe. Ele serve para cenários em que queremos testar as lógicas e os algoritmos de uma classe que
+tem dependência de outra classe, mas isolando essas dependências.
+Com os Mocks, conseguimos escrever um teste de unidade em vez de ter que usar um teste de integração, ou seja, que vai se integrar às dependências.
+
+13) Mostre um exemplo de testes unitários utilizando o Mockito.
+
+
+*LINKS DE ALGUNS SITES QUE ULTILIZEI PARA RESPONDER AS PERGUNTAS*
+https://www.alura.com.br/conteudo/mocks-java-mockito
+https://www.devmedia.com.br/junit-tutorial/1432
+https://www.devmedia.com.br/seguranca-em-aplicacoes-java-java-magazine-82/17703
+https://blog.betrybe.com/tecnologia/teste-automatizados/

@@ -1,0 +1,93 @@
+1) Quais tipos de segurança para aplicação existem?
+
+Existem vários tipos de setgurança, sendo as principais:
+
+Segurança Fisica;
+Segurança de Software;
+Segurança de rede;
+Segurança de Informação;
+Segurança de Gerenciamento;
+Segurança de Autenticação e Autorização;
+Segurança de transação;
+Segurança de Aplicações;
+
+Atualmente, contamos com diversas opções disponíveis de produtos para segurança de aplicações, mas a maioria pode ser dividida em duas categorias: 
+as ferramentas para teste de segurança, um mercado bem estabelecido, cujo objetivo é analisar a segurança de suas aplicações e as ferramentas
+para “blindagem” de segurança, que defendem e fortalecem aplicações, tornando as violações muito mais difíceis.
+
+Desta podemos destacar:
+
+Segurança Wireless;
+Políticas de Segurança;
+Sistemas antivírus;
+Firewalls;
+Criptografia;
+
+
+2) Qual o tipo de segurança mais utilizada em projetos Java?
+
+Spring Security 
+
+
+3) O que é criptografia?
+
+A criptografia, termo que significa o estudo dos segredos, tem com o seu objetivo tornar a informação
+irreconhecível, com exceção para o emissor e o seu respectivo destinatário.
+
+Em segurança virtual é a conversão de dados de um formato legível em um formato codificado. 
+
+
+4) O que é autenticação?
+
+A autenticação trata-se da etapa de verificação se um determinado usuário possui credenciais válidas para acessar uma aplicação.
+
+Em outras palavras, é o login da nossa aplicação
+
+
+5) O que é autorização?
+
+Já a autorização é um processo que acontece depois da autenticação. É o momento onde a aplicação verifica se o usuário atualmente 
+autenticado tem permissão de acesso a um determinado recurso.
+
+
+6) Qual a diferença entre autenticação e autorização?
+
+A autenticação confirma que os usuários são quem dizem ser, validando suas identidades. Já a autorização concede a esses usuários autenticados permissão
+para acessar recursos. Quando combinadas, elas reforçam a segurança de cada endpoint da empresa, garantindo que todos os dados fiquem protegidos
+
+
+7) Mostre um exemplo de segurança no código.
+
+Exemplo prático.
+
+
+8) Qual a importância dos testes unitários?
+
+O objetivo do teste unitário é assegurar que cada unidade está funcionando de acordo com sua especificação funcional. Estes tipos de testes são frequentemente 
+escritos por desenvolvedores quando trabalham no código, para assegurar que a função específica está executando como esperado.
+
+9) Mostre um exemplo de teste unitário.
+
+Exemplo prático.
+
+
+10) O que é o framework JUnit?
+
+O JUnit é um framework que se assemelha ao raio de testes software java, com suporte à criação de testes automatizados nessa linguagem.
+Esse framework facilita o desenvolvimento e execução de testes unitários em código Java, com apresentação dos resultados.
+
+
+11) O que são testes automatizados?
+
+Testes automatizados são programas que executam testes em softwares que estão em construção de uma forma padronizada, sem ser necessário a intervenção humana.
+Tais testes possuem funcionalidades capazes de testar de forma automática todos os aspectos de uma plataforma, com o intuito de assegurar um melhor desempenho.
+
+
+12) O que é Mockito?
+
+Mockito é uma biblioteca para fazer Mocks em Java. Mock é um mecanismo para testar a lógica de uma classe de maneira isolada.
+
+
+13) Mostre um exemplo de testes unitários utilizando o Mockito.
+
+Exemplo pratico.
